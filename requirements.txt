@@ -1,0 +1,9 @@
+scipy
+numpy
+imutils
+opencv-python
+cmake
+wheel
+dlib
+pygame
+selenium
